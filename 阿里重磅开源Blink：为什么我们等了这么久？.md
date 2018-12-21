@@ -1,7 +1,7 @@
 # 阿里重磅开源Blink：为什么我们等了这么久？
 12月20日，由阿里巴巴承办的 Flink Forward China 峰会在北京国家会议中心召开，来自阿里、华为、腾讯、美团点评、滴滴、字节跳动等公司的技术专家与参会者分享了各公司基于 Flink 的应用和实践经验。
 
-感兴趣的开发者可以看云栖社区的对于大会的主会+5场分论坛的直播与<a href="https://yq.aliyun.com/webinar/schedule?spm=a2c4e.11153940.blogcont680813.7.659041f82WogOA">视频点播</a></br>。
+感兴趣的开发者可以看云栖社区的对于大会的主会+5场分论坛的直播与<a href="https://yq.aliyun.com/webinar/schedule?spm=a2c4e.11153940.blogcont680813.7.659041f82WogOA">视频点播</a>。
 
 会议进行中，看到AI前线对蒋晓伟的采访。正如许多开发者所关心的Flink和Blink的关系（云栖社区2016年文章：<a href="https://m.aliyun.com/yunqi/articles/57232?spm=a2c4e.11153940.blogcont680813.8.659041f8YJ4hQu">阿里蒋晓伟谈流计算和批处理引擎Blink，以及Flink和Spark的异同与优势</a></br>），如今有了更新的方向。本篇AI前线的专访讲述的极为清晰。特别转载，共享。
 
