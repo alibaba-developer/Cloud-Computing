@@ -19,9 +19,10 @@ Flink Forward China会上，AI 前线对阿里巴巴计算平台事业部研究�
 彼时的 Flink 不管是规模还是稳定性尚未经历实践，成熟度有待商榷。阿里巴巴实时计算团队决定在阿里内部建立一个 Flink 分支 Blink，并对 Flink 进行大量的修改和完善，让其适应阿里巴巴这种超大规模的业务场景。简单地说，Blink 就是阿里巴巴开发的基于开源 Flink 的阿里巴巴内部版本。
 
 阿里巴巴基于 Flink 搭建的平台于 2016 年正式上线，并从阿里巴巴的搜索和推荐这两大场景开始实现。目前阿里巴巴所有的业务，包括阿里巴巴所有子公司都采用了基于 Flink 搭建的实时计算平台。
-<div style="text-align:center" align="center">
-<img src="/images/开源Blink1.png" />
-</div></br>
+<div style="text-align:center" class="title" align="center">
+<img src="/images/开源Blink1.png" width="680" height="447" align="center" />
+</div>
+
 目前，这套基于 Flink 搭建的实时计算平台不仅服务于阿里巴巴集团内部，而且通过阿里云的云产品 API 向整个开发者生态提供基于 Flink 的云产品支持。
 
 以下内容整理自 AI 前线对蒋晓伟的采访。
