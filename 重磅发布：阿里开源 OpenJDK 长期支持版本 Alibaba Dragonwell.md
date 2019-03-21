@@ -111,3 +111,5 @@ Alibaba Dragonwell 一定是 OpenJDK 的下游，每个 Alibaba Dragonwell 发�
 
 Q4. 如何看待Java 版本的升级？ 如何看待 Oracle JDK 与 OpenJDK 的关系？
 Java 8 是目前最被广泛使用的版本，并且其群体非常坚守。在 Java 圈内，你会发现一个很有趣的现象：无论新版本给出的更新多么诱惑，大部分 Java 开发者似乎并不感兴趣，依旧坚持自己的选择。确实，Java 8 是一个非常成功的版本，以至于很多开发者并不认为需要更新其他版本，这可能与长期养成的习惯和固有信任有关系。Java 这么多年发展过来，大多数开发者已经习惯信任官方 Oracle JDK，对社区 OpenJDK 版本关注不够，所以从 Oracle JDK 到 OpenJDK 的切换需要一个过程。但随着这些国际科技大厂的努力，OpenJDK 的生态一定会越来越完善，功能也会更加齐备，面对持续的安全更新和众多大厂的深度参与，这个项目应该会成为 Java 生态中的重要公共资源。
+
+a href="https://yq.aliyun.com/articles/694603">原文链接</a>
